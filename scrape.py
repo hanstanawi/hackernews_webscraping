@@ -32,13 +32,15 @@ def create_custom(links, subtext):
         title = links[idx].getText()
         href = links[idx].get('href', None)
         vote = subtext[idx].select('.score')
+        author = subtext[idx].select('.hnuser')[0].getText()
         if len(vote):
             points = int(vote[0].getText().replace(' points', ''))
             if points >= 100:
                 hn.append({
                     'Title': title,
                     'Link': href,
-                    'Votes': points
+                    'Votes': points,
+                    'Author': author
                 })
     return sorted_news(hn)
 
@@ -48,7 +50,7 @@ pprint.pprint(result)
 
 
 # CSV Write
-csv_columns = ['Title', 'Link', 'Votes']
+csv_columns = ['Title', 'Link', 'Votes', 'Author']
 csv_file = "News.csv"
 try:
     with open(csv_file, 'w') as csvfile:

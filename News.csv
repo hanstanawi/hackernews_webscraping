@@ -1,32 +1,33 @@
-Title,Link,Votes
-"Grocy: web-based, self-hosted grocery and household management",https://grocy.info/,615
-Technical Writing Courses,https://developers.google.com/tech-writing,516
-Creating a Pencil Effect in SVG,https://heredragonsabound.blogspot.com/2020/02/creating-pencil-effect-in-svg.html,508
-Stock Jump – a ski-jumping game with real stock data,http://stockjump.sos.gd/,440
-Army Corps of Engineers to Build Temporary Hospitals in NY,https://www.governor.ny.gov/news/governor-cuomo-announces-four-sites-identified-army-corps-engineers-initial-list-temporary,390
-Pro drivers are competing with gamers after F1 and Nascar canceled races,https://www.theverge.com/2020/3/22/21184192/sim-racing-coronavirus-f1-nascar-iracing-veloce-esports-max-verstappen-lando-norris,381
-LibraryThing Is Now Free to All,https://blog.librarything.com/main/2020/03/librarything-goes-free/,377
-Researchers say MS Edge's telemetry has worst privacy of any major browser,https://winbuzzer.com/2020/03/17/researchers-say-microsoft-edges-telemetry-has-the-worst-privacy-of-any-major-browser-xcxwbn/,346
-"Apple CarPlay, Android Auto distract drivers more than pot, alcohol, says study",https://www.iamroadsmart.com/campaign-pages/end-customer-campaigns/infotainment#,332
-Merkel bans meetings of more than two people to slow coronavirus,https://www.politico.eu/article/merkel-bans-meetings-of-more-than-2-people-to-slow-coronavirus/,308
-A Starter Kit for Emergency Websites,https://mxb.dev/blog/emergency-website-kit/,259
-Why the EAX register of x86 is called that,https://keleshev.com/eax-x86-register-meaning-and-history/,257
-GreenTunnel: anti-censorship utility designed to bypass deep packet inspection,https://github.com/SadeghHayeri/GreenTunnel,249
-Picking up glowing hot space shuttle tiles with bare hands (2011) [video],https://kottke.org/20/03/picking-up-glowing-hot-space-shuttle-tiles-with-bare-hands,226
-How Prince of Persia Defeated Apple II's Memory Limitations [video],https://www.youtube.com/watch?v=sw0VfmXKq54,222
-Breathing and Exercise: Strength Training for Your Diaphragm (2018),https://www.pennmedicine.org/updates/blogs/musculoskeletal-and-rheumatology/2018/october/breathing-exercises,194
-TSMC Details 5 nm,https://fuse.wikichip.org/news/3398/tsmc-details-5-nm/,192
-"Audacious 4.0 released, switches from GTK to Qt 5",https://audacious-media-player.org/news/45-audacious-4-0-released,190
-Prettier 2.0 – Opinionated JavaScript formatter,https://prettier.io/blog/2020/03/21/2.0.0.html,184
-Show HN: Zoom Redirector,https://github.com/arkadiyt/zoom-redirector,169
-Stagnation and Scientific Incentives,https://www.nber.org/papers/w26752,163
-Basic skeletal animation with geometric algebra,https://www.jeremyong.com/klein/case_studies/ga_skeletal_animation/,161
-Amazon Prime delivery delays are now as long as a month,https://www.vox.com/recode/2020/3/22/21190372/amazon-prime-delivery-delays-april-21-coronavirus-covid-19,158
-A Backpacker's Guide to Maps,https://www.outsideonline.com/2404906/backpacking-outdoor-maps-guide,155
-Help Take the Fight to COVID-19 with BOINC and Folding@Home,https://unraid.net/blog/help-take-the-fight-to-covid-19-with-boinc-or-folding-home,133
-BOLT: Binary Optimization and Layout Tool,https://github.com/facebookincubator/BOLT,131
-Professor Frisby's mostly adequate guide to functional programming (2018),https://mostly-adequate.gitbooks.io/mostly-adequate-guide/,124
-Get Static,https://meyerweb.com/eric/thoughts/2020/03/22/get-static/,119
-Turn a snorkeling mask into a respiratory mask for assisted ventilation [video],https://www.youtube.com/watch?v=w4Csqdxkrfw,108
-Poor man's document camera for videoconference,http://info.iet.unipi.it/~luigi/document-camera/,105
-Design for Living: What’s Great about Goethe?,https://www.newyorker.com/magazine/2016/02/01/design-for-living-books-adam-kirsch,100
+Title,Link,Votes,Author
+"Grocy: web-based, self-hosted grocery and household management",https://grocy.info/,615,jka
+Technical Writing Courses,https://developers.google.com/tech-writing,518,Lilian_Lee
+Creating a Pencil Effect in SVG,https://heredragonsabound.blogspot.com/2020/02/creating-pencil-effect-in-svg.html,508,homarp
+Stock Jump – a ski-jumping game with real stock data,http://stockjump.sos.gd/,440,rathel
+Pro drivers are competing with gamers after F1 and Nascar canceled races,https://www.theverge.com/2020/3/22/21184192/sim-racing-coronavirus-f1-nascar-iracing-veloce-esports-max-verstappen-lando-norris,393,LiweiZ
+Army Corps of Engineers to Build Temporary Hospitals in NY,https://www.governor.ny.gov/news/governor-cuomo-announces-four-sites-identified-army-corps-engineers-initial-list-temporary,391,antoncohen
+LibraryThing Is Now Free to All,https://blog.librarything.com/main/2020/03/librarything-goes-free/,377,user_235711
+Researchers say MS Edge's telemetry has worst privacy of any major browser,https://winbuzzer.com/2020/03/17/researchers-say-microsoft-edges-telemetry-has-the-worst-privacy-of-any-major-browser-xcxwbn/,346,based2
+"Apple CarPlay, Android Auto distract drivers more than pot, alcohol, says study",https://www.iamroadsmart.com/campaign-pages/end-customer-campaigns/infotainment#,332,cglong
+Merkel bans meetings of more than two people to slow coronavirus,https://www.politico.eu/article/merkel-bans-meetings-of-more-than-2-people-to-slow-coronavirus/,308,doener
+A Starter Kit for Emergency Websites,https://mxb.dev/blog/emergency-website-kit/,265,mxbck
+Why the EAX register of x86 is called that,https://keleshev.com/eax-x86-register-meaning-and-history/,257,based2
+GreenTunnel: anti-censorship utility designed to bypass deep packet inspection,https://github.com/SadeghHayeri/GreenTunnel,253,hieudang9
+Picking up glowing hot space shuttle tiles with bare hands (2011) [video],https://kottke.org/20/03/picking-up-glowing-hot-space-shuttle-tiles-with-bare-hands,228,mpweiher
+How Prince of Persia Defeated Apple II's Memory Limitations [video],https://www.youtube.com/watch?v=sw0VfmXKq54,222,weare138
+Breathing and Exercise: Strength Training for Your Diaphragm (2018),https://www.pennmedicine.org/updates/blogs/musculoskeletal-and-rheumatology/2018/october/breathing-exercises,197,robg
+TSMC Details 5 nm,https://fuse.wikichip.org/news/3398/tsmc-details-5-nm/,192,baybal2
+"Audacious 4.0 released, switches from GTK to Qt 5",https://audacious-media-player.org/news/45-audacious-4-0-released,191,jrepinc
+Prettier 2.0 – Opinionated JavaScript formatter,https://prettier.io/blog/2020/03/21/2.0.0.html,184,kristiandupont
+Show HN: Zoom Redirector,https://github.com/arkadiyt/zoom-redirector,175,arkadiyt
+Stagnation and Scientific Incentives,https://www.nber.org/papers/w26752,163,hhs
+Amazon Prime delivery delays are now as long as a month,https://www.vox.com/recode/2020/3/22/21190372/amazon-prime-delivery-delays-april-21-coronavirus-covid-19,162,juokaz
+Basic skeletal animation with geometric algebra,https://www.jeremyong.com/klein/case_studies/ga_skeletal_animation/,161,atomlib
+A Backpacker's Guide to Maps,https://www.outsideonline.com/2404906/backpacking-outdoor-maps-guide,158,bryanrasmussen
+Help Take the Fight to COVID-19 with BOINC and Folding@Home,https://unraid.net/blog/help-take-the-fight-to-covid-19-with-boinc-or-folding-home,134,partingshots
+BOLT: Binary Optimization and Layout Tool,https://github.com/facebookincubator/BOLT,131,lelf
+Get Static,https://meyerweb.com/eric/thoughts/2020/03/22/get-static/,127,EamonnMR
+Professor Frisby's mostly adequate guide to functional programming (2018),https://mostly-adequate.gitbooks.io/mostly-adequate-guide/,124,dsego
+Poor man's document camera for videoconference,http://info.iet.unipi.it/~luigi/document-camera/,110,lrizzo
+Turn a snorkeling mask into a respiratory mask for assisted ventilation [video],https://www.youtube.com/watch?v=w4Csqdxkrfw,108,ggurgone
+Prolog and Logic Programming Historical Sources Archive,http://www.softwarepreservation.org/projects/prolog/,100,homarp
+Design for Living: What’s Great about Goethe?,https://www.newyorker.com/magazine/2016/02/01/design-for-living-books-adam-kirsch,100,keiferski
